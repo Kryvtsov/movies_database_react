@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
-import './App.css';
+import './app.css';
 import MoviesList from "../movies-list";
 
 class App extends Component {
     render() {
         return (
-            <div className="App">
+            <div className="app">
                 <MoviesList />
             </div>
         );
