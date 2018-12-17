@@ -1,0 +1,15 @@
+.content {
+  justify-content: center;
+  .overview {
+    max-width: 400px;
+    width: 100%;
+    color: var(--paletteColor3);
+    li {
+      margin: 20px 0;
+      list-style: none;
+      span {
+        color: var(--paletteColor12);
+      }
+    }
+  }
+}
